@@ -1,4 +1,5 @@
 # 🌌 REDDIT SPY BOT v1.0.0 (Official Release)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A high-speed, interactive, and anti-block CLI intelligence tool built for Termux and Linux environments. This bot monitors any targeted Subreddit for specific custom keywords in real-time, stores data locally to prevent duplicate alerts, and routes push notifications directly to your phone via Telegram.
 
